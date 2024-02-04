@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiraberu&label=Profile%20views&color=0e75b6&style=flat" alt="shiraberu" /> </p>
 
-- 🌱 I’m currently learning **Python, CSS, Linux.**
+- 🌱 I’m currently learning **Python, C++, Linux.**
 
 - 💬 Ask me about **C, C++**
 
